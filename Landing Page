@@ -5,21 +5,23 @@
 <title></title>
 
 <head><NAV>
-  <div><a href="default.asp">Home</a></div><br></br>
-  <div><a href="news.asp">Skills</a></div><br></br>
+   <p style="color:red; font-size: 24px;">Resume</p>
+  <div><a href="resumepro.html">Home</a></div><br></br>
+  <div><a href="skills.html">Skills</a></div><br></br>
   <div><a href="contact.asp">Experience</a></div><br></br>
-  <div><a href="about.asp">About</a></div> <br></br></nav>
+  <div><a href="about.asp">Education/Refrences</a></div> <br></br></nav>
+  
 <style>NAV{
   list-style-type: none;
-  margin: 20px;
+  margin: 5px;
   padding: 5px;
-  font-size:16px;
+  font-size:12px;
   width:100%;
   display:flex;
-  float:none;
   background-color:white;
   border: 5px solid black;
   justify-content:space-evenly;
+  color:black;
 }
 
     
@@ -37,23 +39,26 @@ border-color:black;
     padding-bottom:100px;
     padding-left:200px;
     padding-right:200px;
-border-width:medium;
+border-width:3px;
 }
 
 footer{
+background-color:white;
+color:red;
 border-style:solid;
 border-color:black;
     paddinng-top:100px;
     padding-bottom:100px;
     padding-left:200px;
     padding-right:200px;
-border-width:medium;
+border-width:5px;
 }</style></head>
 
 <body><h1>PROFESSIONAL SUMMARY<br></br>
    <div><img src="/storage/emulated/0/DCIM/Restored/20210924_211115.jpg" alt= "company logo" style= "width: 250px; height: 250px; border: 1px solid black;"></div>
     <p>
-My name is Terry Rickner. I was born in Tulsa, Oklahoma and raised in Drumright, Oklahoma a small oilfield town in Northeast Oklahoma. I have technical training and certification in Welding from Central Technology School in Sapulpa-Drumright, Oklahoma. I have experience has a fabrication welder (3 years) and a variety of home renovation specialties (3 years) such as demolition, drywall, hanging sheet rock, flooring and painting. Warehouse Forklift high reach, pallet jack and clamp (1year). Oilfield Well Service and Construction (7 years) I have my own work I do part  time or upon opportunities. I am a freelance front-end web designer currently working on a website design portfolio.</p></h1> </body>
+My name is Terry Rickner. I was born in Tulsa, Oklahoma and raised in Drumright, Oklahoma a small oilfield town in Northeast Oklahoma. I have technical training and certification in Welding from Central Technology School in Sapulpa-Drumright, Oklahoma. I have experience has a fabrication welder (3 years) and a variety of home renovation specialties (3 years) such as demolition, drywall, hanging sheet rock, flooring and painting. Warehouse Forklift high reach, pallet jack and clamp (1year). Oilfield Well Service and Construction (7 years) I have my own work I do part  time or upon opportunities. I am a freelance front-end web designer currently working on a website design portfolio.</p></h1> 
+<h2><img src=/storage/emulated/0/DCIM/Restored/FB_IMG_1624220419947.jpg alt= "company logo" style= "width: 750px; height: 300px; border: 1px solid black;"></h2></body>
 
 <footer><p>2215 N. Houston St. Fort Worth, Texas 76164<br></br> (682)615-5776 <br></br><a href="mailto: trickner7@gmail.com">Email me</a><p/>
             <p><a href="https://www.facebook.com/terry.rickner">Visit Facebook</a> - For more pictures of some of my work. I have vocational completion certificates upon request.<br></br> 
