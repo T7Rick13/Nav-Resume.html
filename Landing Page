@@ -8,9 +8,9 @@
 </title>
 
 <head>
-<script>fetch(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)
-    .then(function(response) { if(response.ok) { /*do nothing*/}
-        </script>
+<!-- <script>//fetch(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)
+    .then(function(response) { if(response.ok) { /*do nothing*/}//
+        </script> -->
     
     <NAV>
    <p style="color:red; font-size: 24px;
