@@ -5,3 +5,6 @@
 
 10/13/2024
 - Rebranding
+
+2/24/2025
+- Update devops, cleared bugs and reformatted content
